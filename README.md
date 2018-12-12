@@ -1,0 +1,1 @@
+Dans le teminal faut faire un chemin vers le dosier ou se trouve les photos que vous voulez comprésser(avrc l'extension png ou jpg) lancer l'index et vous aurez un nouveau dossier avec les photos compresser.
